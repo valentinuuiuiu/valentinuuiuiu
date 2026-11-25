@@ -2,7 +2,7 @@
 
 **Ionut Valentin Baltag** / **Ionut-Valentin Baltag** / `@valentinuuiuiu`
 
-AI systems & autonomous agents practitioner, full-stack engineer, smart-contract security auditor. Based in Botoșani, Romania.
+AI systems & autonomous agents practitioner, full-stack engineer, smart-contract security auditor. **5 ani de experiență**: primii 2 ani frontend (HTML, CSS, JavaScript, React, Next.js), apoi AI agents, MCP tooling și audit de smart contracts Solidity. Based in Romania.
 
 > Onestitatea e produsul. Lucrările publice de mai jos sunt sursa, nu marketingul.
 
@@ -25,7 +25,7 @@ AI systems & autonomous agents practitioner, full-stack engineer, smart-contract
 | HuggingFace | https://huggingface.co/vvvxxx111 | Profil model/experiments |
 | HuggingFace org | https://huggingface.co/AYProject | Organizație non-profit |
 | Blog | https://auto-roan.vercel.app | Scrieri și proiecte |
-| Profil servicii | https://necesit.ro/providers/ionut-valentin-baltag | Bio profesională publicată |
+| LinkedIn | https://www.linkedin.com/in/ionut-valentin-baltag-9b53282b1/ | Profil profesional |
 | Proiect original | https://github.com/valentinuuiuiu/AGY | AGY — experiment Gemini |
 | Proof chain | https://github.com/valentinuuiuiu/proof-anchors | Ancore zilnice ale lanțului de dovezi |
 
